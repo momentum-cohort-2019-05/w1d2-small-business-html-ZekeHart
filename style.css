@@ -7,6 +7,10 @@ h2 {
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
+hr {
+    border-color: red;
+}
+
 details {
     font: 20px "Comic sans", sans-serif;
     color: black;
