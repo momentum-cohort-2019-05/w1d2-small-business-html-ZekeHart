@@ -16,9 +16,13 @@ h2 {
 
 hr {
     border-color: red;
+    padding: .5rem;
+    margin: .25rem;
 }
 
 details {
+    padding: .25rem;
+    margin: .5rem;
     color: black;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   }
