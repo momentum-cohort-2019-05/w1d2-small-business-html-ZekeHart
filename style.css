@@ -47,13 +47,13 @@ details {
     margin: 0;
   }
 
-  .Nav {
+  .Site-Nav {
       font: 24px "Times New Roman";
       width: 20%;
       background: gray;
   }
 
-  .Nav > summary {
+  .Site-Nav > summary {
       background: gray;
   }
   
