@@ -1,0 +1,27 @@
+details {
+    font: 24px "Times new roman", sans-serif;
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  }
+  
+  details > summary {
+    padding: 2px 6px;
+    background: rgb(9, 121, 17);
+    background: rgb(2, 96, 9);
+    background: linear-gradient(225deg, rgba(2, 96, 9, 1) 35%, rgba(3, 255, 0, 1) 100%);
+    border: none;
+    border-radius: 8px;
+    list-style: none;
+  }
+  
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  details > p {
+    border-radius: 10px;
+    background-color: #03ff00;
+    padding: 2px 6px;
+    margin: 0;
+  }
+  
