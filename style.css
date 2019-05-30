@@ -15,8 +15,6 @@ details {
   
   details > summary {
     padding: 2px 6px;
-    
-    CSS
     background: rgb(224,20,20);
     background: linear-gradient(225deg, rgba(224,20,20,1) 35%, rgba(0,79,255,1) 100%);
     border: none;
