@@ -14,6 +14,7 @@ details {
   }
   
   details > summary {
+    width: 40%;
     padding: 2px 6px;
     background: rgb(224,20,20);
     background: linear-gradient(225deg, rgba(224,20,20,1) 35%, rgba(0,79,255,1) 100%);
@@ -27,6 +28,7 @@ details {
   }
   
   details > p {
+    width: 75%;
     border-radius: 10px;
     background-color: #f442eb;
     padding: 2px 6px;
