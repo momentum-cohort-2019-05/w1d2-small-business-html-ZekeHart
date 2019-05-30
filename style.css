@@ -12,12 +12,12 @@ hr {
 }
 
 details {
-    font: 20px "Comic sans", sans-serif;
     color: black;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   }
   
   details > summary {
+    font: 24px "Comic sans", sans-serif;
     width: 40%;
     padding: 2px 6px;
     background: rgb(224,20,20);
@@ -32,6 +32,7 @@ details {
   }
   
   details > p {
+    font: 16px "Comic sans", sans-serif;
     width: 75%;
     border-radius: 10px;
     background-color: #f442eb;
