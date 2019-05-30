@@ -8,7 +8,7 @@ h2 {
 }
 
 details {
-    font: 24px "Times new roman", sans-serif;
+    font: 20px "Comic sans", sans-serif;
     color: black;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   }
@@ -34,6 +34,12 @@ details {
   }
 
   .Nav {
+      font: 24px "Times New Roman";
       width: 20%;
+      background: gray;
+  }
+
+  .Nav > summary {
+      background: gray;
   }
   
